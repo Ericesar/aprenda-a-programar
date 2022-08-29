@@ -1,0 +1,5 @@
+let Nome = "Eric Cesar" 
+let Email = "ericesar.ferreira@gmail.com"
+let Profissão = "Estoquista" 
+let Idade = "29"
+let Cidade = "Los Santos"
